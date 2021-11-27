@@ -1,18 +1,9 @@
-# aoc-kotlin-starter
-
-Starter template for solving [Advent of Code](https://adventofcode.com) in [Kotlin](https://kotlinlang.org/)
-
-### Features
-
-* Gradle setup so you can run a specific day or all days on the command line (see **Running** below)
-* Timings for each part of each day
-* Input for each day automatically exposed in String and List form
-* Junit and Hamcrest test libraries included (see **Testing** below)
-* Starter .gitignore
+# bookish-octo-sniffle
+![Build](https://github.com/tpepper0408/bookish-octo-sniffle/workflows/Build/badge.svg?branch=main)
 
 ### Running
 
-Project is already setup with gradle. To run the app:
+Project is setup with gradle. To run the app:
 
 * Navigate to top-level directory on the command line
 * Run `./gradlew run` to run all days
