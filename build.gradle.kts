@@ -16,9 +16,9 @@ repositories {
 }
 
 dependencies {
-    implementation(kotlin("stdlib-jdk8"))
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.0")
     implementation("org.reflections", "reflections", "0.9.12")
-    testImplementation("org.junit.jupiter", "junit-jupiter-api", "5.8.1")
+    testImplementation("junit", "junit", "4.4")
     testImplementation("org.hamcrest", "hamcrest", "2.2")
 }
 
